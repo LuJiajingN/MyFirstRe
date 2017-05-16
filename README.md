@@ -1,4 +1,3 @@
 # MyFirstRe
 This is just a test Repository
-°ÙË¼²»µÃ
-À²À²À²
+å•¦å•¦å•¦
